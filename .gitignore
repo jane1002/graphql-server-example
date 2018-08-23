@@ -1,0 +1,8 @@
+node_modules/
+/.idea
+dist
+*.bot
+env.sh
+.DS_Store
+.env
+package-lock.json
